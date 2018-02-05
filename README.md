@@ -2,7 +2,7 @@
 
 # Git and GitHub
 
-### What?
+### What? That's a great question
 - **Git:** a version control system that keeps track of code changes
 - **GitHub:** a popular web-based server for hosting repositories
 
